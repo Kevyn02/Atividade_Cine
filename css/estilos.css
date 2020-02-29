@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+.bg-cine{
+    background-color: #e53319 ;
+}
+nav ul a{
+    text-decoration: none;
+}
+header div{
+    background-color: #fff;
+}
+p, strong, figcaption{
+    font-family: "trebuchet ms", sans-serif;
+}
+.card-body{
+    padding: 10px;
+}
+tr td#C-10, .color-blue{
+    color: blue;
+}
+tr td#C-12{
+    color: yellow;
+}
+tr td#C-14{
+    color: orange;
+}
+tr td#C-16, .color-red{
+    color: red;
+}
+tr td#C-L{
+    color: lime;
+}
+.text-underline{
+    text-decoration: underline;   
+}
+body{
+    margin-top: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+@media (max-width: 1200px) and (min-width: 801px)
+{
+    body {
+        background:#ccc url(http\:\/\/2.bp.blogspot.com\/-xAvMvtgWAvo\/XldIPnBuSZI\/AAAAAAAAQGg\/tT_h6yxS00IX69bWUOpZcMp_WUC7gpb3wCK4BGAYYCw\/w1200\/foto.jpg) repeat scroll top left;
+    }
+}
+body {
+    background:#ccc url(http\:\/\/2.bp.blogspot.com\/-xAvMvtgWAvo\/XldIPnBuSZI\/AAAAAAAAQGg\/tT_h6yxS00IX69bWUOpZcMp_WUC7gpb3wCK4BGAYYCw\/s0\/foto.jpg) repeat scroll top left;
+}
+body {
+    background:#ccc url(http://2.bp.blogspot.com/-xAvMvtgWAvo/XldIPnBuSZI/AAAAAAAAQGg/tT_h6yxS00IX69bWUOpZcMp_WUC7gpb3wCK4BGAYYCw/s0/foto.jpg) repeat scroll top left;
+}
