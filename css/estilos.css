@@ -3,9 +3,6 @@
 body, .bg-black{
     background-color: black;
 }
-.bg-cine{
-    background-color: #e53319 ;
-}
 .bg-cinza{
     background-color: #bbb;
 }
@@ -38,4 +35,10 @@ tr td#C-L{
 }
 .card_header, header, #main_img{
     width: 100%;
+}
+.text-size-h4{
+    font-size: 1.5rem;
+}
+div.card.my-2.col-sm-12.col-md-6.p-0{
+    margin: 0.5px;
 }

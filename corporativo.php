@@ -20,23 +20,23 @@
             <?php require('header.html');?>
             <main class="container">
                 <div class="row">
-                    <div class="card mt-2 card_header">
+                    <div class="card m-2 card_header">
                         <div class="card-header bg-secondary">
                             <h1 class="text-white">Corporativo</h1>
                         </div>
                         <div class="card-body bg-cinza">
-                            <h2 class="text-center text-underline color-red">LEI DA CLASSIFICAÇÃO INDICATIVA</h2>
-                            <p class="text-center">Poucos sabem, mas o
+                            <h2 class="text-center color-red ml-2">LEI DA CLASSIFICAÇÃO INDICATIVA</h2>
+                            <p class="text-center ml-2">Poucos sabem, mas o
                                 então Presidente Luiz Inácio Lula da Silva sancionou no dia 20/07/2006 a nova
                                 lei de Classificação Indicativa para cinemas, teatros, shows, programas de
                                 rádio e televisão.</p>
-                            <p class="text-center">
+                            <p class="text-center ml-2">
                                 Resumindo, para a nova lei fica a critério dos pais o acesso de crianças e
                                 adolescentes para qualquer espetáculo (no nosso caso, sessões de cinema)
                                 classificado até 16 anos. Mas para tanto é obrigatório que os pais estejam
                                 acompanhando os filhos ou que estes estejam acompanhados por adulto responsável
                                 e portando autorização dada pelos pais.</p>
-                            <p class="text-center text-underline color-red"><strong>Entenda a nova simbologia das
+                            <p class="text-center color-red ml-2"><strong>Entenda a nova simbologia das
                                     classificações indicativas:</strong></p>
                             <table class="table table-bordered table-responsive bg-light">
                                 <thead class="thead-light">

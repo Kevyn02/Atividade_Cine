@@ -26,7 +26,7 @@
                         </div>
                         <div class="card-body bg-cinza">
                             <address>
-                                <h2 class="color-red">Endereço:</h2>
+                                <h2>Endereço:</h2>
                                 <p class="text-center">Rua: Major José Inácio, 2154 e 2166. Centro. São Carlos, SP.
                                     Brasil.
                                 </p>
@@ -34,7 +34,7 @@
                                         href="https://maps.google.com.br/maps?f=d&amp;source=embed&amp;saddr=Cine+S%C3%A3o+Carlos+-+Rua+Major+Jos%C3%A9+In%C3%A1cio,+S%C3%A3o+Carlos+-+S%C3%A3o+Paulo&amp;daddr=&amp;geocode=Fe8LsP4d70Ml_SHgSEY3N5i4gCmRS_hYJHe4lDHgSEY3N5i4gA&amp;aq=0&amp;oq=cine+sao&amp;sll=-22.017902,-47.889619&amp;sspn=0.010643,0.021136&amp;t=h&amp;hl=pt-BR&amp;mra=ls&amp;ie=UTF8&amp;ll=-22.017902,-47.889619&amp;spn=0.006962,0.00912&amp;z=16"
                                         style="color: blue; text-align: left;">Exibir mapa ampliado</a></p>
                             </address>
-                            <h2 class="color-red">Estacionamento:</h2>
+                            <h2>Estacionamento:</h2>
                             <p class="text-center">
                                 Estacionamento gratuito de (2° a 6°feira a partir das 19h e Sábado e Domingo a partir da
                                 primeira

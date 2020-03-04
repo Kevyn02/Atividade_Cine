@@ -29,7 +29,7 @@
                                 <img class="img-fluid"
                                     src="https://1.bp.blogspot.com/-DIJvasut5tg/UhaEXcV_YHI/AAAAAAAACjg/nPbDbvbci3Y/s320/fale-conosco.jpg">
                             </div>
-                            <div>
+                            <div class="mx-2">
                                 <p class="text-center"><strong>Para agendar Sessões Extras para empresas, escolas ou
                                         entidades,
                                         entre em contato com o CINE
