@@ -33,7 +33,7 @@ tr td#C-L{
 .text-underline{
     text-decoration: underline;   
 }
-.card_header, header, #main_img{
+.card_header, .card_footer, header, #main_img{
     width: 100%;
 }
 .text-size-h4{

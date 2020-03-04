@@ -20,29 +20,6 @@
             <?php require('header.html');?>
             <main class="container">
                 <div class="row">
-                    <div class="card mt-2 card_header">
-                        <div class="card-header text-center bg-cinza">
-                            <h1 class="color-red"><strong>Programação de: 27/02 a 04/03/2020</strong>
-                            </h1>
-                            <p><strong>* Programação Sujeita á Alterações sem aviso
-                                    prévio.*</strong>
-                            </p>
-                            <p class="color-red "><strong>*NÃO NOS RESPONSABILIZAMOS POR OBJETOS DEIXADOS
-                                    NAS
-                                    SALAS DE EXIBIÇÃO.*</strong></p>
-                            <p class="color-red "><strong>**O ESTACIONAMENTO É EXCLUSIVO PARA CLIENTES
-                                    DURANTE A EXIBIÇÃO DO FILME.**</strong>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="card container d-flex justify-content-center p-0 mt-2">
-                        <div class="card-header text-center bg-secondary text-white text-white">
-                            <h2>Sala 1</h2>
-                        </div>
-                    </div>
                     <div class="card col-sm-12 col-md-6 p-2 bg-black">
                         <div class="card-body bg-cinza">
                             <figure class="text-center">
@@ -51,16 +28,8 @@
                                 <figcaption class="text-size-h4"><strong>MEU NOME É SARA</strong>
                                 </figcaption>
                             </figure>
-                            <p class="text-center  color-red"><strong>QUI, SEX e QUA: 17h e
-                                    21h30</strong>
-                            </p>
-                            <p class="text-center  color-red"><strong>SÁB e DOM: 19h</strong>
-                            </p>
-                            <p class="text-center  color-red"><strong>SEG e TER:
-                                    21h30</strong>
-                            </p>
                             <ul>
-                                <li class=""><strong>Diretor: Steven Oritt</strong></li>
+                                <li><strong>Diretor: Steven Oritt</strong></li>
                                 <li><strong>Com: Zuzanna Surowy, Konrad Cichon, Pawel Królikowski</strong>
                                 </li>
                                 <li><strong>Gênero: Drama - Legendado</strong></li>
@@ -89,8 +58,19 @@
                                         manter seu disfarce e sobreviver, ela terá que lidar com toda a
                                         tensão
                                         da
-                                        situação.</strong></li>
+                                        situação.
+                                    </strong>
+                                </li>
                             </ul>
+                            <p class="text-center  color-red"><strong>QUI, SEX e QUA: 17h e
+                                    21h30</strong>
+                            </p>
+                            <p class="text-center  color-red"><strong>SÁB e DOM: 19h</strong>
+                            </p>
+                            <p class="text-center  color-red"><strong>SEG e TER:
+                                    21h30</strong>
+                            </p>
+
                         </div>
                     </div>
                     <div class="card col-sm-12 col-md-6 p-2 bg-black">
@@ -102,14 +82,8 @@
                                         WATERS</strong>
                                 </figcaption>
                             </figure>
-                            <p class="text-center  color-red"><strong>QUI, SEX, SEG, TER e
-                                    QUA:
-                                    19h
-                                </strong></p>
-                            <p class="text-center  color-red"><strong>SÁB e DOM: 16h30
-                                </strong></p>
                             <ul>
-                                <li class=""><strong>Diretor: Tood Haynes</strong></li>
+                                <li><strong>Diretor: Tood Haynes</strong></li>
                                 <li><strong>Com: Mark Ruffalo - Anne Hathaway - Tim Robbins</strong></li>
                                 <li><strong>Gênero: Drama - Legendado</strong></li>
                                 <li><strong>Tempo de duração: 128 min.</strong></li>
@@ -128,6 +102,12 @@
                                         sua
                                         família e seu futuro.</strong></li>
                             </ul>
+                            <p class="text-center  color-red"><strong>QUI, SEX, SEG, TER e
+                                    QUA:
+                                    19h
+                                </strong></p>
+                            <p class="text-center  color-red"><strong>SÁB e DOM: 16h30
+                                </strong></p>
                         </div>
                     </div>
                     <div class="card col-sm-12 col-md-6 p-2 bg-black">
@@ -137,13 +117,8 @@
                                     alt="" class="img-fluid">
                                 <figcaption class="text-size-h4"><strong>PARASITA</strong></figcaption>
                             </figure>
-                            <p class="text-center  color-red"><strong>SÁB e DOM:
-                                    21h30</strong>
-                            </p>
-                            <p class="text-center  color-red"><strong>SEG e TER: 17h</strong>
-                            </p>
                             <ul>
-                                <li class=""><strong>Diretor: Bong Joon Ho</strong></li>
+                                <li><strong>Diretor: Bong Joon Ho</strong></li>
                                 <li><strong>Com: Kang – Ho Song – Woo – Sik Choi – Park So – Dam</strong>
                                 </li>
                                 <li><strong>Gênero: Suspense – Legendado</strong></li>
@@ -164,14 +139,11 @@
                                         caro
                                         a todos.</strong></li>
                             </ul>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="card container d-flex justify-content-center p-0">
-                        <div class="card-header text-center bg-secondary text-white">
-                            <h2>Sala 2</h2>
+                            <p class="text-center  color-red"><strong>SÁB e DOM:
+                                    21h30</strong>
+                            </p>
+                            <p class="text-center  color-red"><strong>SEG e TER: 17h</strong>
+                            </p>
                         </div>
                     </div>
                     <div class="card col-sm-12 col-md-6 p-2 bg-black">
@@ -181,14 +153,8 @@
                                     alt="" class="img-fluid">
                                 <figcaption class="text-size-h4"><strong>SONIC – O FILME</strong></figcaption>
                             </figure>
-                            <p class="text-center  color-red"><strong>QUI e SEX: 16h30 |19h</strong>
-                            </p>
-                            <p class="text-center  color-red"><strong>SÁB e DOM: 14h30</strong></p>
-                            <p class="text-center  color-red"><strong>SEG e TER: 16h30 e 19h</strong>
-                            </p>
-                            <p class="text-center  color-red"><strong>QUA: 14h30 e 19h</strong></p>
                             <ul>
-                                <li class=""><strong>Diretor: Jeff Fowler</strong></li>
+                                <li><strong>Diretor: Jeff Fowler</strong></li>
                                 <li><strong>Com: James Manden – Jim Carry – Tika Sumpter</strong></li>
                                 <li><strong>Gênero: Aventura – Dublado</strong></li>
                                 <li><strong>Tempo de duração: 99 min.</strong></li>
@@ -199,6 +165,12 @@
                                         aprisionar animais inocentes em robôs. A sinopse oficial ainda não foi
                                         divulgada.</strong></li>
                             </ul>
+                            <p class="text-center  color-red"><strong>QUI e SEX: 16h30 |19h</strong>
+                            </p>
+                            <p class="text-center  color-red"><strong>SÁB e DOM: 14h30</strong></p>
+                            <p class="text-center  color-red"><strong>SEG e TER: 16h30 e 19h</strong>
+                            </p>
+                            <p class="text-center  color-red"><strong>QUA: 14h30 e 19h</strong></p>
                         </div>
                     </div>
                     <div class="card col-sm-12 col-md-6 p-2 bg-black">
@@ -208,11 +180,8 @@
                                     alt="" class="img-fluid">
                                 <figcaption class="text-size-h4"><strong>JOJO RABBIT</strong></figcaption>
                             </figure>
-                            <p class="text-center  color-red"><strong>QUI, SEX, SEG, TER e QUA:
-                                    19h</strong></p>
-                            <p class="text-center  color-red"><strong>SÁB e DOM: 21h30</strong></p>
                             <ul>
-                                <li class=""><strong>Diretor: Taika Waititi</strong></li>
+                                <li><strong>Diretor: Taika Waititi</strong></li>
                                 <li><strong>Com: Roman Griffino Davis – Thomasin McKenzie – Scartlett
                                         Johnsson</strong></li>
                                 <li><strong>Gênero: Drama, Guerra – Legendado</strong></li>
@@ -227,6 +196,9 @@
                                         de casa. Depois de várias tentativas frustradas para expulsá-la, o jovem
                                         rebelde começa a desenvolver empatia pela nova hóspede.</strong></li>
                             </ul>
+                            <p class="text-center  color-red"><strong>QUI, SEX, SEG, TER e QUA:
+                                    19h</strong></p>
+                            <p class="text-center  color-red"><strong>SÁB e DOM: 21h30</strong></p>
                         </div>
                     </div>
                     <div class="card col-sm-12 col-md-6 p-2 bg-black">
@@ -236,11 +208,8 @@
                                     alt="" class="img-fluid">
                                 <figcaption class="text-size-h4"><strong>LUTA POR JUSTIÇA</strong></figcaption>
                             </figure>
-                            <p class="text-center  color-red"><strong>QUI, SEX, SEG, TER e QUA:
-                                    21h30</strong></p>
-                            <p class="text-center  color-red"><strong>SÁB e DOM: 16h30</strong></p>
                             <ul>
-                                <li class=""><strong>Diretor: Destin Daniel Cretton</strong></li>
+                                <li><strong>Diretor: Destin Daniel Cretton</strong></li>
                                 <li><strong>Com: Michael B. Jordan - Jamie Foxx - Brie Larson</strong></li>
                                 <li><strong>Gênero: Drama - Legendado</strong></li>
                                 <li><strong>Tempo de duração: 137 min.</strong></li>
@@ -258,6 +227,9 @@
                                         por conta do preconceito racial na região. </strong>
                                 </li>
                             </ul>
+                            <p class="text-center  color-red"><strong>QUI, SEX, SEG, TER e QUA:
+                                    21h30</strong></p>
+                            <p class="text-center  color-red"><strong>SÁB e DOM: 16h30</strong></p>
                         </div>
                     </div>
                     <div class="card col-sm-12 col-md-6 p-2 bg-black">
@@ -269,13 +241,8 @@
                                         FANTABULOSA</strong>
                                 </figcaption>
                             </figure>
-                            <p class="text-center  color-red"><strong>QUI, SEX, SÁB e QUA:
-                                    21h30</strong>
-                            </p>
-                            <p class="text-center  color-red"><strong>DOM, SEG e TER: 16h30</strong>
-                            </p>
                             <ul>
-                                <li class=""><strong>Diretor: Cathy Yan</strong></li>
+                                <li><strong>Diretor: Cathy Yan</strong></li>
                                 <li><strong>Com: Margot Robbie – Mary Elizabeth Winstead</strong></li>
                                 <li><strong>Gênero: Ação – Aventura – Legendado </strong></li>
                                 <li><strong>Tempo de duração: 109 min.</strong></li>
@@ -286,10 +253,31 @@
                                         heroínas. Quando um perigoso criminoso começa a causar destruição em Gotham,
                                         as cinco mulheres precisam se unir para defender a cidade.</strong></li>
                             </ul>
+                            <p class="text-center  color-red"><strong>QUI, SEX, SÁB e QUA:
+                                    21h30</strong>
+                            </p>
+                            <p class="text-center  color-red"><strong>DOM, SEG e TER: 16h30</strong>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="card mt-2 card_footer">
+                        <div class="card-footer text-center bg-cinza">
+                            <p><strong>* Programação Sujeita á Alterações sem aviso
+                                    prévio.*</strong>
+                            </p>
+                            <p><strong>*NÃO NOS RESPONSABILIZAMOS POR OBJETOS DEIXADOS
+                                    NAS
+                                    SALAS DE EXIBIÇÃO.*</strong></p>
+                            <p><strong>**O ESTACIONAMENTO É EXCLUSIVO PARA CLIENTES
+                                    DURANTE A EXIBIÇÃO DO FILME.**</strong>
+                            </p>
                         </div>
                     </div>
                 </div>
             </main>
+            <?php require('footer.html');?>
         </div>
     </div>
 </body>
