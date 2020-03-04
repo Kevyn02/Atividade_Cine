@@ -15,23 +15,30 @@
 </head>
 
 <body>
-    <div class="container d-flex justify-content-center">
+    <div class="container">
         <div class="row">
             <?php require('header.html');?>
-            <main class="card d-flex justify-content-center">
-                <div class="card-header">
-                    <h1>Preços</h1>
-                </div>
-                <div class="card-body">
-                    <div>
-                        <img src="https://1.bp.blogspot.com/-ao_JvXKPf8E/XfJhuqt-CfI/AAAAAAAAPbM/oPz8hSjbRkQbQXVykno6DGVBHqT3Vo8rACLcBGAsYHQ/s640/0001.jpg"
-                            alt="Preços" class="img-fluid">
+            <main class="container">
+                <div class="row">
+                    <div class="card mt-2 card_header">
+                        <div class="card-header bg-secondary">
+                            <h1 class="text-white">Preços</h1>
+                        </div>
+                        <div class="card-body container d-flex justify-content-center bg-cinza">
+                            <div>
+                                <img src="https://1.bp.blogspot.com/-ao_JvXKPf8E/XfJhuqt-CfI/AAAAAAAAPbM/oPz8hSjbRkQbQXVykno6DGVBHqT3Vo8rACLcBGAsYHQ/s640/0001.jpg"
+                                    alt="Preços" class="img-fluid">
+                            </div>
+                        </div>
+                        <div class="card-body container d-flex justify-content-center bg-cinza">
+                            <div>
+                                <img src="https://3.bp.blogspot.com/-vyJmx2cbyW0/WgOSlpB_YKI/AAAAAAAAGS8/YGvsug7uFj8PLA4Bz2WsBhEI4a8ONe3jACLcBGAs/s1600/baner%2Bmeia%2Bentrada.png"
+                                    alt="Benificios de meia entrada" class="img-fluid">
+                            </div>
+                        </div>
                     </div>
-                    <div>
-                        <img src="https://3.bp.blogspot.com/-vyJmx2cbyW0/WgOSlpB_YKI/AAAAAAAAGS8/YGvsug7uFj8PLA4Bz2WsBhEI4a8ONe3jACLcBGAs/s1600/baner%2Bmeia%2Bentrada.png"
-                            alt="Benificios de meia entrada" class="img-fluid">
-                    </div>
                 </div>
+
             </main>
         </div>
     </div>
