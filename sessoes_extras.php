@@ -35,7 +35,7 @@
                                         entre em contato com o CINE
                                         SÃO CARLOS.</strong></p>
                                 <p class="text-center"><strong>TEL:(16)3307-6006</strong></p>
-                                <p class="text-underline color-red text-center"><strong>Horário de
+                                <p class="color-red text-center"><strong>Horário de
                                         funcionamento:</strong></p>
                                 <p class="text-center"><strong>Segunda, Terça e Quinta - Feira a partir das
                                         16h.</strong></p>
@@ -46,6 +46,7 @@
                     </div>
                 </div>
             </main>
+            <?php require('footer.html');?>
         </div>
     </div>
 </body>

@@ -30,9 +30,6 @@ tr td#C-16, .color-red{
 tr td#C-L{
     color: lime;
 }
-.text-underline{
-    text-decoration: underline;   
-}
 .card_header, .card_footer, header, #main_img{
     width: 100%;
 }
