@@ -25,15 +25,15 @@
                             <h1 class="text-white">Preços</h1>
                         </div>
                         <div class="card-body container d-flex justify-content-center bg-cinza">
-                            <div>
-                                <img src="https://1.bp.blogspot.com/-ao_JvXKPf8E/XfJhuqt-CfI/AAAAAAAAPbM/oPz8hSjbRkQbQXVykno6DGVBHqT3Vo8rACLcBGAsYHQ/s640/0001.jpg"
-                                    alt="Preços" class="img-fluid">
-                            </div>
-                        </div>
-                        <div class="card-body container d-flex justify-content-center bg-cinza">
-                            <div>
-                                <img src="https://3.bp.blogspot.com/-vyJmx2cbyW0/WgOSlpB_YKI/AAAAAAAAGS8/YGvsug7uFj8PLA4Bz2WsBhEI4a8ONe3jACLcBGAs/s1600/baner%2Bmeia%2Bentrada.png"
-                                    alt="Benificios de meia entrada" class="img-fluid">
+                            <div class="row">
+                                <div class="col-sm-12 col-lg-6">
+                                    <img src="https://1.bp.blogspot.com/-ao_JvXKPf8E/XfJhuqt-CfI/AAAAAAAAPbM/oPz8hSjbRkQbQXVykno6DGVBHqT3Vo8rACLcBGAsYHQ/s640/0001.jpg"
+                                        alt="Preços" class="img-fluid">
+                                </div>
+                                <div class="col-sm-12 col-lg-6">
+                                    <img src="https://3.bp.blogspot.com/-vyJmx2cbyW0/WgOSlpB_YKI/AAAAAAAAGS8/YGvsug7uFj8PLA4Bz2WsBhEI4a8ONe3jACLcBGAs/s1600/baner%2Bmeia%2Bentrada.png"
+                                        alt="Benificios de meia entrada" class="img-fluid">
+                                </div>
                             </div>
                         </div>
                     </div>
